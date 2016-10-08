@@ -1,0 +1,1 @@
+It's a createjs copy with only easeljs 0.8.2  and tweenjs 0.6.2
